@@ -27,7 +27,7 @@ layout:
 
 ## $1.00 donation for website and news updates.
 
-<figure><img src="../../.gitbook/assets/0x9ff616449d869df823dc8af917a68882af89411b.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-07-08 at 17-57-35 AipDrop.png" alt=""><figcaption><p><a href="https://foxxchain.github.io/"><mark style="color:yellow;">CLICK HERE</mark></a></p></figcaption></figure>
 
 ### FOXX CUBE
 
