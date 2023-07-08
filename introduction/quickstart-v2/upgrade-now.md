@@ -25,7 +25,7 @@ layout:
 
 ## Stream FCNN and Gamerz Guildz with Youtube — as low as&#x20;
 
-## $1.00 donation for website and news updates.
+## $1.00 Upgrage for website news updates and FREE AIRDROPS.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-07-08 at 17-57-35 AipDrop.png" alt=""><figcaption><p><a href="https://foxxchain.github.io/"><mark style="color:yellow;">CLICK HERE</mark></a></p></figcaption></figure>
 
