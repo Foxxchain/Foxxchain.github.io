@@ -108,14 +108,6 @@ Cryptos: [**26,074**](https://coinmarketcap.com/)  Exchanges**:** [**640**](http
 
 ## [$1.00 Raffles](https://foxxchain.github.io/)
 
-## Crypto mkt cap is <mark style="color:green;background-color:green;">**$1.19T**</mark>
-
-## DeFi mkt cap is <mark style="color:green;background-color:green;">**$43.51B**</mark>
-
-## Metaverse mkt cap is <mark style="background-color:green;">$11.80B</mark>
-
-## DEX 24h vol <mark style="color:green;background-color:green;">$2.34B</mark>
-
 ## <mark style="color:red;">Help</mark>
 
 {% hint style="danger" %}
