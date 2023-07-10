@@ -20,6 +20,12 @@ layout:
 
 # 🔗 FoxxChain Network News
 
+{% hint style="danger" %}
+THIS WEBSITE IS UNDERGOING LIVE TESTING AND UPDATES
+
+Live Help On <mark style="color:blue;">**Telegram**</mark> / [<mark style="color:yellow;">**Twitter**</mark>](https://twitter.com/foxxontheblocks) / [**Instagram**](https://www.instagram.com/foxxchain.io/?igshid=NGExMmI2YTkyZg%3D%3D) / <mark style="color:purple;">**TikTok**</mark> / <mark style="color:orange;">**Email**</mark> or [<mark style="color:blue;">**You**</mark><mark style="color:red;">**Tube**</mark> ](https://www.youtube.com/@Foxxontheblock)Videos
+{% endhint %}
+
 ## _FCNN_  <mark style="color:blue;">Breaking</mark> <mark style="color:red;">News</mark>
 
 The global crypto market cap is <mark style="color:green;">**$1.19T ^^**</mark> <mark style="background-color:green;">1.80%</mark>   Dominance: [BTC: 50.2% ETH: 19.0%](https://coinmarketcap.com/charts/#dominance-percentage)
@@ -109,12 +115,6 @@ Cryptos: [**26,074**](https://coinmarketcap.com/)  Exchanges**:** [**640**](http
 ## [$1.00 Raffles](https://foxxchain.github.io/)
 
 ## <mark style="color:red;">Help</mark>
-
-{% hint style="danger" %}
-THIS WEBSITE IS UNDERGOING LIVE TESTING AND UPDATES
-
-Live Help On <mark style="color:blue;">**Telegram**</mark> / [<mark style="color:yellow;">**Twitter**</mark>](https://twitter.com/foxxontheblocks) / [**Instagram**](https://www.instagram.com/foxxchain.io/?igshid=NGExMmI2YTkyZg%3D%3D) / <mark style="color:purple;">**TikTok**</mark> / <mark style="color:orange;">**Email**</mark> or [<mark style="color:blue;">**You**</mark><mark style="color:red;">**Tube**</mark> ](https://www.youtube.com/@Foxxontheblock)Videos
-{% endhint %}
 
 <details>
 
