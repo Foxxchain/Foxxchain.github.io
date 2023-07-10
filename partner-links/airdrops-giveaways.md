@@ -3,8 +3,8 @@ description: >-
   Social media can be a valuable source of information and news updates. Many
   organizations and individuals use these platforms to share insights, news
   articles, and thought-provoking content.
-cover: ../.gitbook/assets/nft-airdrop.jpg.jpg
-coverY: -103.1945701357466
+cover: ../.gitbook/assets/FCNN AIRDROP .png
+coverY: 0
 layout:
   cover:
     visible: true
@@ -30,6 +30,8 @@ SOCIAL MEDIA & NEWS UPDATES
 _Follow, Like, Subscribe to  any and/or all of our accounts....Comment with your wallet address to be added to the airdrop pools._
 
 {% embed url="https://www.youtube.com/@Foxxontheblock/featured" fullWidth="false" %}
+
+{% embed url="https://airdrop.foxxchain.io/" %}
 
 {% embed url="https://www.youtube.com/@Gam3rzGu7ldz" %}
 
