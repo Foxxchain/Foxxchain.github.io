@@ -3,7 +3,7 @@ description: >-
   Upgrading is easy, just submit your wallet address at the FoxxChain Stargate
   Lounge YouTube Channel...or not. We welcome you to stay and enjoy the
   information available.
-cover: ../../.gitbook/assets/iStock-1154341603-3249594100.jpg
+cover: ../../.gitbook/assets/FCNN AIRDROP .png
 coverY: 0
 layout:
   cover:
@@ -23,7 +23,7 @@ layout:
 
 # 🏧 Offer Details
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-07-08 at 17-57-35 AipDrop.png" alt=""><figcaption><p><a href="https://foxxchain.github.io/"><mark style="color:green;"><strong>$1.00 Upgrade &#x26; Airdrop</strong></mark></a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-07-08 at 17-57-35 AipDrop.png" alt=""><figcaption><p><a href="https://airdrop.foxxchain.io/"><mark style="color:green;"><strong>$1.00 Upgrade &#x26; Airdrop</strong></mark></a></p></figcaption></figure>
 
 ##
 
@@ -54,7 +54,7 @@ Offer details
 
 <details>
 
-<summary>2.Register for the Foxxchain Airdrop</summary>
+<summary><a href="https://airdrop.foxxchain.io/">2.Register for the Foxxchain Airdrop</a></summary>
 
 Comment #airdrop with your full wallet address on Social media
 
@@ -81,8 +81,6 @@ Plug into one of our favorite DeFi Protocols
 * NO Spammer contact...NO annoying E-mails
 * FREE AIRDROP
 * and more...//ome code
-
-{% embed url="http://127.0.0.1:3000/index.html" %}
 
 FCNN:&#x20;
 

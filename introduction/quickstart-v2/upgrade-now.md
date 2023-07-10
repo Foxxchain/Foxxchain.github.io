@@ -27,7 +27,7 @@ layout:
 
 ## $1.00 Upgrage for website news updates and FREE AIRDROPS.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-07-08 at 17-57-35 AipDrop.png" alt=""><figcaption><p><a href="https://foxxchain.github.io/"><mark style="color:yellow;">CLICK HERE</mark></a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FCNN AIRDROP .png" alt=""><figcaption><p><a href="https://foxxchain.github.io/"><mark style="color:yellow;">CLICK HERE</mark></a></p></figcaption></figure>
 
 ### FOXX CUBE
 
@@ -67,7 +67,7 @@ layout:
 
 <details>
 
-<summary>2.Register for the Foxxchain Airdrop</summary>
+<summary><a href="https://airdrop.foxxchain.io/">2.Register for the Foxxchain Airdrop</a></summary>
 
 Comment #airdrop with your full wallet address on Social media
 
