@@ -52,7 +52,7 @@ layout:
 
 ## <mark style="color:blue;">Requirements needed to achieve maximum result</mark>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1.Cryptocurrency Wallet</td><td>Yes, I have one <mark style="color:green;">>>>>>>>></mark></td><td>No, I need one</td><td><a href="../../.gitbook/assets/wallet.jpg">wallet.jpg</a></td></tr><tr><td>2.Social Media Network</td><td>Enter Wallet Address <mark style="color:green;">>>>></mark></td><td>Airdrop Entry in YouTube</td><td><a href="../../.gitbook/assets/th-2160703082.jpg">th-2160703082.jpg</a></td></tr><tr><td>3.Decentralize Networks</td><td>Start your DeFi Portfolio</td><td>Play to Earn</td><td><a href="../../.gitbook/assets/th-275876766.jpg">th-275876766.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1.Cryptocurrency Wallet</td><td>Yes, I have one <mark style="color:green;">>>>>>>>></mark></td><td>No, I need one</td><td><a href="../../.gitbook/assets/wallet.jpg">wallet.jpg</a></td></tr><tr><td>2.Social Media Network</td><td><a href="https://forms.gle/oYWmZYH33iSPjZap9">Enter Wallet Address </a><mark style="color:green;">>>>></mark></td><td>Airdrop Entry in YouTube</td><td><a href="../../.gitbook/assets/th-2160703082.jpg">th-2160703082.jpg</a></td></tr><tr><td>3.Decentralize Networks</td><td>Start your DeFi Portfolio</td><td>Play to Earn</td><td><a href="../../.gitbook/assets/th-275876766.jpg">th-275876766.jpg</a></td></tr></tbody></table>
 
 <details>
 
@@ -67,7 +67,7 @@ layout:
 
 <details>
 
-<summary><a href="https://airdrop.foxxchain.io/">2.Register for the Foxxchain Airdrop</a></summary>
+<summary><a href="https://forms.gle/oYWmZYH33iSPjZap9">2.Register for the Foxxchain Airdrop</a></summary>
 
 Comment #airdrop with your full wallet address on Social media
 
