@@ -27,6 +27,12 @@ layout:
 
 Since several steps are involved, these official guides will walk you through using our products as efficiently and thoroughly as possible.
 
+
+
+
+
+{% embed url="https://forms.gle/BHXU35HfnSkCRqUH6" %}
+
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 We believe that financial success should be intertwined with joy and excitement. With the rise of play-to-earn gaming, we seize the opportunity to merge investment opportunities with immersive gaming experiences. Our portfolio includes carefully selected play-to-earn gaming projects, where players can earn rewards, assets, and cryptocurrencies by participating in captivating virtual worlds. We understand that investing should be rewarding in more ways than one, and we invite you to join us on this thrilling journey.
