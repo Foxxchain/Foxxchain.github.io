@@ -23,7 +23,7 @@ layout:
 {% hint style="danger" %}
 THIS WEBSITE IS UNDERGOING LIVE TESTING AND UPDATES
 
-Live Help On <mark style="color:blue;">**Telegram**</mark> / [<mark style="color:yellow;">**Twitter**</mark>](https://twitter.com/foxxontheblocks) / [**Instagram**](https://www.instagram.com/foxxchain.io/?igshid=NGExMmI2YTkyZg%3D%3D) / <mark style="color:purple;">**TikTok**</mark> / <mark style="color:orange;">**Email**</mark> or [<mark style="color:blue;">**You**</mark><mark style="color:red;">**Tube**</mark> ](https://www.youtube.com/@Foxxontheblock)Videos
+Live Help On [<mark style="color:blue;">**Telegram**</mark>](https://t.me/+ACh6lJ2aQWo4OWIx) / [<mark style="color:yellow;">**Twitter**</mark>](https://twitter.com/foxxontheblocks) / [**Instagram**](https://www.instagram.com/foxxchain.io/?igshid=NGExMmI2YTkyZg%3D%3D) / <mark style="color:purple;">**TikTok**</mark> / <mark style="color:orange;">**Email**</mark> or [<mark style="color:blue;">**You**</mark><mark style="color:red;">**Tube**</mark> ](https://www.youtube.com/@Foxxontheblock)Videos
 {% endhint %}
 
 ## _FCNN_  <mark style="color:blue;">Breaking</mark> <mark style="color:red;">News</mark>

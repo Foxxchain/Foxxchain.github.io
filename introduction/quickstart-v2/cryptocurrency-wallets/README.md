@@ -46,7 +46,7 @@ Most crypto wallet providers are software-based, which makes their use more conv
 
 However, hardware wallets tend to be **the most secure alternative**.
 
-
+***
 
 ## [#](https://dripcommunity.wiki/how-to/crypto-wallets/intro/#how-do-cryptocurrency-wallets-work)How do cryptocurrency wallets work?
 

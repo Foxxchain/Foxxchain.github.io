@@ -26,7 +26,7 @@ layout:
 ## QS.Foxxchain Network
 
 {% hint style="info" %}
-**Leave your wallet address in the comments of the video below to be entered in the next  Airdrop.**
+Register and Upgrade click [here](https://forms.gle/vkGRjH7sTkGcgEPc8)
 {% endhint %}
 
 {% embed url="https://youtu.be/rpcBQMej8fU" %}

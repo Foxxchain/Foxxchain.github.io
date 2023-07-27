@@ -36,7 +36,7 @@ layout:
 1. [Why?](./#cryptowallet) A crypto wallet is a tool that allows you to interact with a blockchain network.
 2. Where? [<mark style="color:yellow;">Where do you get a wallet from.</mark>](./#cryptowallet)
 3. Which one should i choice?....[<mark style="color:red;">Help</mark>](cryptocurrency-wallets/qs.foxxchain-network/#qs.foxxchain-network)
-4. [<mark style="color:green;">Ok let me try it out...</mark>](./)
+4. [<mark style="color:green;">Ok let me try it out...</mark>](https://forms.gle/dvT48bnJpZ1XWQzJ9)
 {% endtab %}
 
 {% tab title="Step 2" %}
