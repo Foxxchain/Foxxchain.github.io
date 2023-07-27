@@ -35,7 +35,15 @@ Welcome, Choose your next step...
 
 Unleash the power of Quickstart! Empowering you with essential tools and invaluable insights, we pave the way for seamless blockchain transactions. Immerse yourself in the world of boundless opportunities as you effortlessly connect to DeFi Protocols!Requirements needed to achieve maximum result
 
-## &#x20;<a href="#qs2" id="qs2"></a>
+
+
+
+
+<figure><img src="../../.gitbook/assets/AIRDROP (640 × 360 px).png" alt=""><figcaption><p>ICO | LAUNCH DATES</p></figcaption></figure>
+
+
+
+{% embed url="https://forms.gle/EpPN3N2YX9tFrgTBA" %}
 
 {% tabs %}
 {% tab title="CryptoWallet" %}
