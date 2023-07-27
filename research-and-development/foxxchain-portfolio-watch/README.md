@@ -40,7 +40,13 @@ layout:
 
 
 
-**$0.245**
+{% embed url="https://www.geckoterminal.com/bsc/pools/0xa0feb3c81a36e885b6608df7f0ff69db97491b58" %}
+
+
+
+```html
+<iframe height="100%" width="100%" id="geckoterminal-embed" title="GeckoTerminal Embed" src="https://www.geckoterminal.com/bsc/pools/0xa0feb3c81a36e885b6608df7f0ff69db97491b58?embed=1&info=1&swaps=1" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
+```
 
 | 1 | [![BTC logo](https://s2.coinmarketcap.com/static/img/coins/64x64/1.png)BitcoinBTC](https://coinmarketcap.com/currencies/bitcoin/) | [$30,771.12](https://coinmarketcap.com/currencies/bitcoin/markets/) | 0.11% | 0.27% | 2.37% | $597,449,155,778 | <p><a href="https://coinmarketcap.com/currencies/bitcoin/markets/">$17,511,400,007</a></p><p>569,180 BTC</p> | 19,415,906 BTC | [![bitcoin-7d-price-graph](https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1.svg)](https://coinmarketcap.com/currencies/bitcoin/?period=7d) |   |
 | - | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----- | ----- | ----- | ---------------- | ------------------------------------------------------------------------------------------------------------ | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
