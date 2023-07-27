@@ -29,7 +29,7 @@ We believe that financial success should be intertwined with joy and excitement.
 Check out [<mark style="color:purple;">**Blockchain Babies**</mark>](broken-reference) for kid friendly games
 {% endhint %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/BLOCKCHAIN MONEY SECRETS LIVE.png">BLOCKCHAIN MONEY SECRETS LIVE.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/bcmhunt.png">bcmhunt.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/SHIBARIUM (2).PNG">SHIBARIUM (2).PNG</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/zedrun.png">zedrun.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Play to Earn</td><td>New User Start</td><td>Register<a href="https://forms.gle/QnDZj7eQpzUDe52EA"> HERE</a></td><td><a href="../.gitbook/assets/FCNN EARN.png">FCNN EARN.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/bcmhunt.png">bcmhunt.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/SHIBARIUM (2).PNG">SHIBARIUM (2).PNG</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/zedrun.png">zedrun.png</a></td></tr></tbody></table>
 
 {% tabs %}
 {% tab title="First Tab" %}
