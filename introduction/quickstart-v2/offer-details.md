@@ -90,7 +90,7 @@ Weekly Airdrops! /&#x20;
 
 Raffles Live Play to Earn Gaming! /&#x20;
 
-New User Friendly Interactive
+[New User Friendly Interactive](https://forms.gle/KD5bkL8FrgSuRuvWA)
 
 AipDropYou need to enable JavaScript to run this app.
 

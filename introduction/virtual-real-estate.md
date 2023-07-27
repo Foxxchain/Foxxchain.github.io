@@ -42,7 +42,7 @@ Where we search the blockchain and share play to earn and play to learn gaming p
 
 ## PLAY TO EARN
 
-Use the referral link given to you or you can <mark style="color:green;">CLICK THE LINK BELOW</mark> to get started
+Use the referral link given to you or you can [<mark style="color:green;">CLICK HERE</mark>](https://forms.gle/KD5bkL8FrgSuRuvWA)  to get started
 
 <details>
 
