@@ -77,5 +77,5 @@ Ledger
 {% endembed %}
 
 {% embed url="https://www.bladewallet.io/" %}
-Foxxchain recommended Hedera
+[**Join our HBAR Telegram**](https://t.me/+ACh6lJ2aQWo4OWIx)&#x20;
 {% endembed %}

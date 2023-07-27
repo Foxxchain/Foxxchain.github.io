@@ -25,7 +25,7 @@ layout:
 
 ## Stream FCNN and Gamerz Guildz with Youtube — as low as&#x20;
 
-## $1.00 Upgrage for website news updates and FREE AIRDROPS.
+## $1.00 Upgrage for exclusive website news updates and bonus AIRDROPS.
 
 <figure><img src="../../.gitbook/assets/FCNN AIRDROP .png" alt=""><figcaption><p><a href="https://foxxchain.github.io/"><mark style="color:yellow;">CLICK HERE</mark></a></p></figcaption></figure>
 
@@ -45,10 +45,7 @@ layout:
 
 
 
-* 40+ channels including CNN, MSNBC, ABC News, Bloomberg TV and more
 * Stream on your favorite devices at home or on the go
-
-\*FOX and NBC in select marketsOffer details
 
 ## <mark style="color:blue;">Requirements needed to achieve maximum result</mark>
 
@@ -83,9 +80,5 @@ Plug into one of our favorite DeFi Protocols
 
 </details>
 
-### &#x20;Local and world blockchain news streaming live on CNN for the best price
 
-*
-
-Offer details
 
