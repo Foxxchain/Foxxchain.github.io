@@ -20,15 +20,17 @@ layout:
 
 # 🔗 FoxxChain Network News
 
+
+
 {% hint style="danger" %}
-THIS WEBSITE IS UNDERGOING LIVE TESTING AND UPDATES
+THIS WEBSITE IS UNDERGOING LIVE TESTING AND UPDATES: [<mark style="background-color:green;">Click Here to Register into one of the Focus Groups</mark>](https://forms.gle/rRMumhSc4dXLcUm1A)
 
 Live Help On [<mark style="color:blue;">**Telegram**</mark>](https://t.me/+ACh6lJ2aQWo4OWIx) / [<mark style="color:yellow;">**Twitter**</mark>](https://twitter.com/foxxontheblocks) / [**Instagram**](https://www.instagram.com/foxxchain.io/?igshid=NGExMmI2YTkyZg%3D%3D) / <mark style="color:purple;">**TikTok**</mark> / <mark style="color:orange;">**Email**</mark> or [<mark style="color:blue;">**You**</mark><mark style="color:red;">**Tube**</mark> ](https://www.youtube.com/@Foxxontheblock)Videos
 {% endhint %}
 
 ## _FCNN_  <mark style="color:blue;">Breaking</mark> <mark style="color:red;">News</mark>
 
-The global crypto market cap is <mark style="color:green;">**$1.19T ^^**</mark> <mark style="background-color:green;">1.80%</mark>   Dominance: [BTC: 50.2% ETH: 19.0%](https://coinmarketcap.com/charts/#dominance-percentage)
+The Global Crypto Market Cap is over <mark style="color:green;">1 Trillion</mark> Dollars
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a data-footnote-ref href="#user-content-fn-1">Blockchain</a></td><td><a href="research-and-development/foxxchain.wiki/blockchain.md">What is it and how does it work?</a></td><td></td><td><a href=".gitbook/assets/crypto.jpg">crypto.jpg</a></td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-2">DeFi</a></td><td><a href="introduction/quickstart-v2/upgrade-now.md">Top 10 DeFi Protocols</a></td><td><p><mark style="color:green;"><strong>Launch Updates:</strong></mark>  DDD </p><p>Animalfarm.world</p></td><td><a href=".gitbook/assets/bloomberg.jpg">bloomberg.jpg</a></td><td><a href="https://www.bloomberg.com/press-releases/2023-03-01/the-animal-farm-is-releasing-new-utilities-to-support-existing-products">https://www.bloomberg.com/press-releases/2023-03-01/the-animal-farm-is-releasing-new-utilities-to-support-existing-products</a></td></tr><tr><td><a href="https://direct.me/innersundevelopments"><mark style="color:red;">IDVLP</mark></a></td><td><a href="https://direct.me/innersundevelopments">Personalized Investment Strategies/Consultants</a></td><td></td><td><a href=".gitbook/assets/AD(1).png">AD(1).png</a></td><td><a href="https://direct.me/innersundevelopments">https://direct.me/innersundevelopments</a></td></tr><tr><td><a href="https://airdrop.foxxchain.io/">$1.00 AIRDROP Upgrade</a></td><td><a href="https://forms.gle/oYWmZYH33iSPjZap9">Airdrop Alliance Form</a></td><td><a href="research-and-development/foxxchain.wiki/">PRE-LAUNCH TOKENS</a></td><td><a href=".gitbook/assets/AIRDROP (640 × 360 px) (1).png">AIRDROP (640 × 360 px) (1).png</a></td><td></td></tr><tr><td>Careers</td><td><a href="introduction/blockchain-babies/learn-to-earn/">Get paid daily no experience needed</a></td><td></td><td><a href=".gitbook/assets/jobs.jpg">jobs.jpg</a></td><td></td></tr><tr><td><mark style="color:red;">Drip Drop Draw</mark></td><td>$1 Raffle~How to Enter?</td><td>Chainlink VRF provides cryptographically secure randomness</td><td><a href=".gitbook/assets/1.jpg">1.jpg</a></td><td><a href="https://forms.gle/ayFy1Qte2Lirppyq9">https://forms.gle/ayFy1Qte2Lirppyq9</a></td></tr></tbody></table>
 
