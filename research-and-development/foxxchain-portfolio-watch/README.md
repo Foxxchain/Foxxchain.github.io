@@ -44,28 +44,9 @@ layout:
 
 
 
-```html
-<iframe height="100%" width="100%" id="geckoterminal-embed" title="GeckoTerminal Embed" src="https://www.geckoterminal.com/bsc/pools/0xa0feb3c81a36e885b6608df7f0ff69db97491b58?embed=1&info=1&swaps=1" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
-```
-
-| 1 | [![BTC logo](https://s2.coinmarketcap.com/static/img/coins/64x64/1.png)BitcoinBTC](https://coinmarketcap.com/currencies/bitcoin/) | [$30,771.12](https://coinmarketcap.com/currencies/bitcoin/markets/) | 0.11% | 0.27% | 2.37% | $597,449,155,778 | <p><a href="https://coinmarketcap.com/currencies/bitcoin/markets/">$17,511,400,007</a></p><p>569,180 BTC</p> | 19,415,906 BTC | [![bitcoin-7d-price-graph](https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1.svg)](https://coinmarketcap.com/currencies/bitcoin/?period=7d) |   |
-| - | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----- | ----- | ----- | ---------------- | ------------------------------------------------------------------------------------------------------------ | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-
-|   | 2 | [![ETH logo](https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png)EthereumETH](https://coinmarketcap.com/currencies/ethereum/) | [$1,888.32](https://coinmarketcap.com/currencies/ethereum/markets/) | 0.01% | 1.13% | 0.52% | $227,014,202,697 | <p><a href="https://coinmarketcap.com/currencies/ethereum/markets/">$7,501,409,562</a></p><p>3,973,291 ETH</p>      | 120,220,157 ETH     | [![ethereum-7d-price-graph](https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1027.svg)](https://coinmarketcap.com/currencies/ethereum/?period=7d) |   |
-| - | - | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----- | ----- | ----- | ---------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-|   | 3 | [![USDT logo](https://s2.coinmarketcap.com/static/img/coins/64x64/825.png)TetherUSDT](https://coinmarketcap.com/currencies/tether/)    | [$0.9999](https://coinmarketcap.com/currencies/tether/markets/)     | 0.01% | 0.01% | 0.01% | $83,370,586,106  | <p><a href="https://coinmarketcap.com/currencies/tether/markets/">$28,660,049,688</a></p><p>28,666,887,411 USDT</p> | 83,377,712,381 USDT | [![tether-7d-price-graph](https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/825.svg)](https://coinmarketcap.com/currencies/tether/?period=7d)      |   |
-|   | 4 | [![BNB logo](https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png)BNBBNB](https://coinmarketcap.com/currencies/bnb/)           | [$239.69](https://coinmarketcap.com/currencies/bnb/markets/)        | 0.18% | 2.00% | 1.61% | $37,355,835,862  | <p><a href="https://coinmarketcap.com/currencies/bnb/markets/">$432,925,804</a></p><p>1,805,593 BNB</p>             | 155,851,388 BNB     | [![bnb-7d-price-graph](https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1839.svg)](https://coinmarketcap.com/currencies/bnb/?period=7d)           |   |
-
 <figure><img src="https://widgets.coingecko.com/coingecko-coin-market-ticker-list-widget.js" alt=""><figcaption></figcaption></figure>
 
 
-
-````javascript
-```
-https://widgets.coingecko.com/coingecko-coin-market-ticker-list-widget.js
-```
-
-````
 
 {% embed url="https://dogechain.dog/" %}
 
