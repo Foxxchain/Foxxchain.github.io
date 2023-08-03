@@ -76,9 +76,15 @@ Cryptos: [**26,074**](https://coinmarketcap.com/)  Exchanges**:** [**640**](http
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Upland</td><td><a href="https://www.upland.me/events">Virtual Monopoly with real propery Brazil Launch!</a></td><td></td><td><a href=".gitbook/assets/upland2.jpg">upland2.jpg</a></td></tr><tr><td>Mobland</td><td>Game play, NFT Airdops, Staking </td><td></td><td><a href=".gitbook/assets/mobland.jpg">mobland.jpg</a></td></tr><tr><td>ZEd Run</td><td><h2>ZED Token ZED $0.0172</h2><p><strong>$0.0172</strong>  <mark style="background-color:green;">2.13%</mark> (1d)</p></td><td>Foxxontheblock Stables</td><td><a href=".gitbook/assets/zedrun.png">zedrun.png</a></td></tr></tbody></table>
 
+<div align="left">
+
+<figure><img src=".gitbook/assets/FoxxontheBlox 2 (2).png" alt="" width="250"><figcaption><p><a href="https://www.roblox.com/games/6266940721?privateServerLinkCode=31318504891137218003468060196807"><mark style="color:purple;">Blockchain Babies</mark></a></p></figcaption></figure>
+
+</div>
+
 ## <mark style="color:red;">Meme Coins! what is it?</mark>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>What is a Meme Coin?</td><td>Top 5 meme coins</td><td>Scam,Rugpull,Hack List</td><td><a href=".gitbook/assets/memecoin.jpg">memecoin.jpg</a></td></tr><tr><td><mark style="color:red;">Shibarium</mark></td><td></td><td></td><td><a href=".gitbook/assets/SHIBARIUM.PNG">SHIBARIUM.PNG</a></td></tr><tr><td><mark style="color:red;">Dogechain</mark></td><td></td><td></td><td><a href=".gitbook/assets/doge.jpg">doge.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>What is a Meme Coin?</td><td>Top 5 meme coins</td><td>Scam,Rugpull,Hack List</td><td><a href=".gitbook/assets/memecoin.jpg">memecoin.jpg</a></td></tr><tr><td><mark style="color:red;">Shibarium</mark></td><td></td><td></td><td><a href=".gitbook/assets/SHIBARIUM.PNG">SHIBARIUM.PNG</a></td></tr><tr><td><mark style="color:red;">Dogechain</mark></td><td></td><td></td><td><a href=".gitbook/assets/FoxxontheBlox 2 (1).png">FoxxontheBlox 2 (1).png</a></td></tr></tbody></table>
 
 {% hint style="danger" %}
 <mark style="color:green;">**Quick Upgrade Guide**</mark>  [<mark style="color:yellow;">**New to Crypto Step by Step Guides**</mark>](introduction/quickstart-v2/new-to-crypto.md)    [_**More Information**_ ](research-and-development/foxxchain.wiki/blockchain.md)
