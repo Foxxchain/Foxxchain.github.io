@@ -78,9 +78,17 @@ Cryptos: [**26,074**](https://coinmarketcap.com/)  Exchanges**:** [**640**](http
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/FoxxontheBlox 2 (2).png" alt="" width="250"><figcaption><p><a href="https://www.roblox.com/games/6266940721?privateServerLinkCode=31318504891137218003468060196807"><mark style="color:purple;">Blockchain Babies</mark></a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/FoxxontheBlox 2 (2).png" alt="" width="250"><figcaption><p><a href="https://www.roblox.com/games/6266940721?privateServerLinkCode=31318504891137218003468060196807"><mark style="color:yellow;">Blockchain Babies</mark></a></p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/text-1691051851763.png" alt=""><figcaption><p><a href="https://www.roblox.com/games/6266940721?privateServerLinkCode=31318504891137218003468060196807"><mark style="color:yellow;">Blockchain Master Studio of Realms &#x26; Pixels</mark></a></p></figcaption></figure>
 
 </div>
+
+
+
+
 
 ## <mark style="color:red;">Meme Coins! what is it?</mark>
 
