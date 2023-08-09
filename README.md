@@ -86,9 +86,7 @@ Cryptos: [**26,074**](https://coinmarketcap.com/)  Exchanges**:** [**640**](http
 
 </div>
 
-
-
-
+<figure><img src=".gitbook/assets/Copy of bmsrp new2loaded pic(2400 × 240 px).png" alt=""><figcaption><p><a href="https://view.forms.app/foxxontheblock/bmsrpggbbregistration"><mark style="color:yellow;">Blockchain Masters: The Order of Realms &#x26; Pixels</mark></a></p></figcaption></figure>
 
 ## <mark style="color:red;">Meme Coins! what is it?</mark>
 
