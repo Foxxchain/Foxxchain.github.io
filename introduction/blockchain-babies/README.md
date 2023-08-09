@@ -1,12 +1,6 @@
 ---
 description: Blockchain Babies
-cover: >-
-  https://images.unsplash.com/photo-1503444200347-fa86187a2797?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxraWRzJTIwb24lMjB0aGUlMjBpbnRlcm5ldHxlbnwwfHx8fDE2ODc3OTU0MTd8MA&ixlib=rb-4.0.3&q=85
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -20,6 +14,8 @@ layout:
 ---
 
 # 👼 Blockchain Babies
+
+
 
 We believe that financial success should be intertwined with joy and excitement. With the rise of play-to-earn gaming, we seize the opportunity to merge investment opportunities with immersive gaming experiences. Our portfolio includes carefully selected play-to-earn gaming projects, where players can earn rewards, assets, and cryptocurrencies by participating in captivating virtual worlds. We understand that investing should be rewarding in more ways than one, and we invite you to join us on this thrilling journey.
 

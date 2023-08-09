@@ -26,6 +26,7 @@
 * [👼 Blockchain Babies](introduction/blockchain-babies/README.md)
   * [🎓 Learn to Earn](introduction/blockchain-babies/learn-to-earn/README.md)
     * [🟢 Learn To Earn Registration Form](introduction/blockchain-babies/learn-to-earn/learn-to-earn-registration-form.md)
+  * [GAMERZ GUILDZ](introduction/blockchain-babies/gamerz-guildz.md)
 * [🔹 Virtual Real Estate](introduction/virtual-real-estate.md)
 
 ***
