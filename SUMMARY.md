@@ -46,7 +46,7 @@
 * [📊 Foxxchain Portfolio Watch](research-and-development/foxxchain-portfolio-watch/README.md)
   * [Page 1](research-and-development/foxxchain-portfolio-watch/page-1.md)
 * [🛠 Tools](research-and-development/tools.md)
-* [⁉ How To Guides](research-and-development/how-to-guides/README.md)
+* [⁉ How To Guides](research-and-development/how-to-guides.md)
   * [FoxxChain Network News Registration Form](https://forms.gle/8hz38oFFxodChQ7b9)
   * [📝 FCNN Registration Form](research-and-development/how-to-guides/fcnn-registration-form.md)
 

@@ -1,6 +1,12 @@
 ---
 description: Blockchain Babies
+cover: >-
+  https://images.unsplash.com/photo-1503444200347-fa86187a2797?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxraWRzJTIwb24lMjB0aGUlMjBpbnRlcm5ldHxlbnwwfHx8fDE2ODc3OTU0MTd8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -16,6 +22,22 @@ layout:
 # 👼 Blockchain Babies
 
 We believe that financial success should be intertwined with joy and excitement. With the rise of play-to-earn gaming, we seize the opportunity to merge investment opportunities with immersive gaming experiences. Our portfolio includes carefully selected play-to-earn gaming projects, where players can earn rewards, assets, and cryptocurrencies by participating in captivating virtual worlds. We understand that investing should be rewarding in more ways than one, and we invite you to join us on this thrilling journey.
+
+
+
+```html
+<button formsappId=64d2592315d2238b3f024701 onclick="formsappForm.open()"></button>
+<script src="https://forms.app/static/embed.js" type="text/javascript"></script><script> var formsappForm = new formsapp('64d2592315d2238b3f024701', 'popup', {"overlay":"rgba(45,45,45,0.5)","button":{"color":"#24DDFF","text":"Click here!"},"width":"800px","height":"600px","openingAnimation":{"entrance":"animate__fadeIn","exit":"animate__fadeOut"}})</script>
+
+```
+
+
+
+
+
+
+
+
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/BLOCKCHAIN MONEY SECRETS LIVE.png">BLOCKCHAIN MONEY SECRETS LIVE.png</a></td><td></td></tr><tr><td><a href="https://www.roblox.com/games/6266940721?privateServerLinkCode=31318504891137218003468060196807">Blockchain Babies </a><a href="https://www.roblox.com/games/6266940721?privateServerLinkCode=31318504891137218003468060196807">Roblox</a></td><td>Foxbyte Studios</td><td></td><td><a href="../../.gitbook/assets/FoxxontheBlox 2 (200 × 200 px) (125 × 125 px).png">FoxxontheBlox 2 (200 × 200 px) (125 × 125 px).png</a></td><td><a href="https://www.roblox.com/games/6266940721?privateServerLinkCode=31318504891137218003468060196807">https://www.roblox.com/games/6266940721?privateServerLinkCode=31318504891137218003468060196807</a></td></tr><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/bcmhunt.png">bcmhunt.png</a></td><td></td></tr><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/SHIBARIUM (2).PNG">SHIBARIUM (2).PNG</a></td><td></td></tr><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/upland-4218759582.jpg">upland-4218759582.jpg</a></td><td></td></tr><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/bcmc.jpg">bcmc.jpg</a></td><td></td></tr><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/pegaxy.jpg">pegaxy.jpg</a></td><td></td></tr><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/pegaxy3.jpg">pegaxy3.jpg</a></td><td></td></tr><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/99eb25ed-5c89-4c7c-a36a-483ea67642fa.png">99eb25ed-5c89-4c7c-a36a-483ea67642fa.png</a></td><td></td></tr></tbody></table>
 

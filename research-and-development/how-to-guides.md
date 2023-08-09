@@ -41,6 +41,6 @@ We believe that financial success should be intertwined with joy and excitement.
 
 {% embed url="https://trezor.io/" %}
 
-{% content-ref url="../../policies/disclaimer.md" %}
-[disclaimer.md](../../policies/disclaimer.md)
+{% content-ref url="../policies/disclaimer.md" %}
+[disclaimer.md](../policies/disclaimer.md)
 {% endcontent-ref %}
