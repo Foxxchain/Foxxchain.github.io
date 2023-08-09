@@ -35,9 +35,9 @@ We believe that financial success should be intertwined with joy and excitement.
 
 
 
-
-
-
+```javascript
+// Some codevar formsappForm = new formsapp('64d2592315d2238b3f024701', 'popover', {"button":{"color":"#ff9e24"},"align":"right"})
+```
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/BLOCKCHAIN MONEY SECRETS LIVE.png">BLOCKCHAIN MONEY SECRETS LIVE.png</a></td><td></td></tr><tr><td><a href="https://www.roblox.com/games/6266940721?privateServerLinkCode=31318504891137218003468060196807">Blockchain Babies </a><a href="https://www.roblox.com/games/6266940721?privateServerLinkCode=31318504891137218003468060196807">Roblox</a></td><td>Foxbyte Studios</td><td></td><td><a href="../../.gitbook/assets/FoxxontheBlox 2 (200 × 200 px) (125 × 125 px).png">FoxxontheBlox 2 (200 × 200 px) (125 × 125 px).png</a></td><td><a href="https://www.roblox.com/games/6266940721?privateServerLinkCode=31318504891137218003468060196807">https://www.roblox.com/games/6266940721?privateServerLinkCode=31318504891137218003468060196807</a></td></tr><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/bcmhunt.png">bcmhunt.png</a></td><td></td></tr><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/SHIBARIUM (2).PNG">SHIBARIUM (2).PNG</a></td><td></td></tr><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/upland-4218759582.jpg">upland-4218759582.jpg</a></td><td></td></tr><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/bcmc.jpg">bcmc.jpg</a></td><td></td></tr><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/pegaxy.jpg">pegaxy.jpg</a></td><td></td></tr><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/pegaxy3.jpg">pegaxy3.jpg</a></td><td></td></tr><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/99eb25ed-5c89-4c7c-a36a-483ea67642fa.png">99eb25ed-5c89-4c7c-a36a-483ea67642fa.png</a></td><td></td></tr></tbody></table>
 
