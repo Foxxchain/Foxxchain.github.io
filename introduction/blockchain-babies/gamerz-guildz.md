@@ -4,6 +4,12 @@ description: 'Blockchain Masters: The Order Of Realms & Pixels'
 
 # GAMERZ GUILDZ
 
+
+
+## Gamerz Guildz: Multiverse
+
+
+
 <figure><img src="../../.gitbook/assets/bmsrptoorp- Presentation (695 × 195 px).png" alt=""><figcaption><p><mark style="color:yellow;">Create Your Own Path Metaverse</mark> </p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/GGBMSRPFCNNFP - Presentation OLDv (2048 × 1152 px) (Instagram Post (Square)) (2048 × 1152 px).png" alt=""><figcaption><p><a href="https://view.forms.app/foxxontheblock/bmsrpggbbregistration">click here to begin</a></p></figcaption></figure>
