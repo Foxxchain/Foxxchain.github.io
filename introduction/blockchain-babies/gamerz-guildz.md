@@ -14,20 +14,24 @@ description: 'Blockchain Masters: The Order Of Realms & Pixels'
 
 <figure><img src="../../.gitbook/assets/GGBMSRPFCNNFP - Presentation OLDv (2048 × 1152 px) (Instagram Post (Square)) (2048 × 1152 px).png" alt=""><figcaption><p><a href="https://view.forms.app/foxxontheblock/bmsrpggbbregistration">click here to begin</a></p></figcaption></figure>
 
+{% code overflow="wrap" lineNumbers="true" %}
 ```
-// <iframe width="560" height="315" src="https://www.youtube.com/embed/EgPWA5L5ZlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EgPWA5L5ZlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  code
 ```
+{% endcode %}
 
-
-
-```html
-// Some <iframe id="" allowtransparency="true" allowfullscreen="true" allow="geolocation; microphone; camera" src="https://my.forms.app/form/64d2592315d2238b3f024701" frameborder="0" style="width: 100vw; min-width:100%; height:600px; border:none;"></iframe>
+{% code title="" overflow="wrap" lineNumbers="true" %}
+```livescript
+<iframe id="" allowtransparency="true" allowfullscreen="true" allow="geolocation; microphone; camera" src="https://my.forms.app/form/64d2592315d2238b3f024701" frameborder="0" style="width: 100vw; min-width:100%; height:600px; border:none;"></iframe>
 ```
+{% endcode %}
 
+{% code title="" overflow="wrap" lineNumbers="true" %}
 ```javascript
-// Some <iframe id="" allowtransparency="true" allowfullscreen="true" allow="geolocation; microphone; camera" src="https://my.forms.app/form/64d2592315d2238b3f024701" frameborder="0" style="width: 100vw; min-width:100%; height:600px; border:none;"></iframe>
+<iframe id="" allowtransparency="true" allowfullscreen="true" allow="geolocation; microphone; camera" src="https://my.forms.app/form/64d2592315d2238b3f024701" frameborder="0" style="width: 100vw; min-width:100%; height:600px; border:none;"></iframe>
 ```
+{% endcode %}
 
 {% embed url="https://view.forms.app/foxxontheblock/bmsrpggbbregistration" %}
 
