@@ -19,7 +19,6 @@
         * [Daily Compounding Interest](introduction/quickstart-v2/cryptocurrency-wallets/qs.foxxchain-network/qs.-decentralize/daily-compounding-interest.md)
 * [💧 Decentralize](introduction/decentralize/README.md)
   * [Daily Compounding Interest](introduction/decentralize/daily-compounding-interest.md)
-* [🐷 Yield Farming](introduction/yield-farming.md)
 * [🐶 Staking](introduction/staking.md)
 * [☘ Liquidity Mining](introduction/liquidity-mining.md)
 * [🎮 Play to Earn](introduction/play-to-earn.md)
@@ -28,6 +27,7 @@
     * [🟢 Learn To Earn Registration Form](introduction/blockchain-babies/learn-to-earn/learn-to-earn-registration-form.md)
   * [GAMERZ GUILDZ](introduction/blockchain-babies/gamerz-guildz.md)
 * [🔹 Virtual Real Estate](introduction/virtual-real-estate.md)
+* [🐷 Yield Farming](introduction/yield-farming.md)
 
 ***
 
