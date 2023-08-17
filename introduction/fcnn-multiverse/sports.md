@@ -1,9 +1,5 @@
 ---
-description: >-
-  Quickstart will give you all the tools and information needed to transact on
-  the Blockchain! Connect to DeFi Protocols! and enter the world of Play to Earn
-  Games!
-cover: ../../.gitbook/assets/iStock-1154341603-3249594100.jpg
+cover: ../../.gitbook/assets/fcnn casino  BANNER (36 × 18 in).png
 coverY: 0
 layout:
   cover:
@@ -24,6 +20,8 @@ layout:
 # 🌌 Sports
 
 
+
+<figure><img src="../../.gitbook/assets/Copy of fcnnSPORTSBANNER (36 × 18 in).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Welcome, Choose your next step...

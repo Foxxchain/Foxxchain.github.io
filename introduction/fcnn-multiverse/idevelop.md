@@ -23,7 +23,7 @@ layout:
 
 <div align="center">
 
-<figure><img src="../../.gitbook/assets/Idevlop.png" alt="" width="125"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Idevlop.png" alt="" width="250"><figcaption><p>I DEVELOP</p></figcaption></figure>
 
 </div>
 

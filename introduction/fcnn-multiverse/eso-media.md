@@ -1,8 +1,4 @@
 ---
-description: >-
-  Quickstart will give you all the tools and information needed to transact on
-  the Blockchain! Connect to DeFi Protocols! and enter the world of Play to Earn
-  Games!
 cover: ../../.gitbook/assets/iStock-1154341603-3249594100.jpg
 coverY: 0
 layout:
@@ -24,6 +20,8 @@ layout:
 # 🌌 ESO-Media
 
 
+
+<figure><img src="../../.gitbook/assets/eso-MEDIA.png" alt=""><figcaption><p>DIGITAL CREATOR</p></figcaption></figure>
 
 {% hint style="info" %}
 Welcome, Choose your next step...

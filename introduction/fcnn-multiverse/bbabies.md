@@ -1,8 +1,4 @@
 ---
-description: >-
-  Quickstart will give you all the tools and information needed to transact on
-  the Blockchain! Connect to DeFi Protocols! and enter the world of Play to Earn
-  Games!
 cover: ../../.gitbook/assets/iStock-1154341603-3249594100.jpg
 coverY: 0
 layout:
@@ -23,7 +19,21 @@ layout:
 
 # 🌌 BBabies
 
+<figure><img src="../../.gitbook/assets/text-1691048460938.png" alt=""><figcaption></figcaption></figure>
 
+<div>
+
+<figure><img src="../../.gitbook/assets/foxxblockchainbabies.png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/FoxxontheBlox .png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/foxxblockchainbabies.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 Welcome, Choose your next step...
