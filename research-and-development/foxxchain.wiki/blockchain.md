@@ -23,7 +23,7 @@ layout:
 #### For many, blockchain technology is still a mysterious or even intimidating topic. Some even remain skeptical that we’ll use this technology in the future. This skepticism that exists today is understandable because we’re still very early in the development and widespread adoption of blockchain technology.
 
 {% hint style="info" %}
-[Upgrade](cryptocurrency-wallets/qs.foxxchain-network/#qs.foxxchain-network) for Live Updates and Tools
+[Upgrade](../../introduction/quickstart-v2/cryptocurrency-wallets/qs.foxxchain-network/#qs.foxxchain-network) for Live Updates and Tools
 {% endhint %}
 
 Blockchain technology is the concept or protocol behind the running of the blockchain. Blockchain technology makes [cryptocurrencies](http://blockgeeks.com/guides/what-is-cryptocurrency/) (digital currencies secured by cryptography) like Bitcoin work just like the internet makes email possible.

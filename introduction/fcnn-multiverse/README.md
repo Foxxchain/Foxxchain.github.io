@@ -3,12 +3,7 @@ description: >-
   Quickstart will give you all the tools and information needed to transact on
   the Blockchain! Connect to DeFi Protocols! and enter the world of Play to Earn
   Games!
-cover: ../../.gitbook/assets/FCNN GITBOOK WORLD (1024 × 576 px) (1).png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -23,15 +18,21 @@ layout:
 
 # 🌌 FCNN MULTIVERSE
 
-
-
 {% hint style="info" %}
 Welcome, Choose your next step...
 {% endhint %}
 
-## Empowering you with essential tools and invaluable insights <a href="#qs2" id="qs2"></a>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Cryptocurrency Wallet</td><td>Yes, I have one <mark style="color:green;">>>>>>>></mark></td><td><a href="../quickstart-v2/#qs2"><mark style="color:red;">No</mark></a>, I need one</td><td><a href="../../.gitbook/assets/wallet.jpg">wallet.jpg</a></td></tr><tr><td>Social Airdrops, Newscast</td><td><a href="https://forms.gle/oYWmZYH33iSPjZap9">Register your Wallet </a><mark style="color:green;">>>>></mark></td><td>on <a href="../../research-and-development/foxxchain.wiki/cryptocurrency-wallets/qs.foxxchain-network/">YouTube</a> #airdrop</td><td><a href="../../.gitbook/assets/social.jpg">social.jpg</a></td></tr><tr><td>Decentralized Networks</td><td>Start your DeFi Portfolio</td><td><a href="../../#defi-kings">Top DeFi Pick of the Week</a></td><td><a href="../../.gitbook/assets/th-275876766.jpg">th-275876766.jpg</a></td></tr><tr><td>Play to Earn Gaming</td><td></td><td></td><td><a href="../../.gitbook/assets/PLAY TO EARN.jpg">PLAY TO EARN.jpg</a></td></tr><tr><td>Foxxchain </td><td></td><td></td><td><a href="../../.gitbook/assets/cube1.jpg">cube1.jpg</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+{% embed url="https://www.canva.com/design/DAFq-bfWSAY/ze4NXMFoc9qlb5q2gtgXQQ/edit?utm_campaign=designshare&utm_content=DAFq-bfWSAY&utm_medium=link2&utm_source=sharebutton" %}
+
+
+
+
+
+Empowering you with essential tools and invaluable insights
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Cryptocurrency Wallet</td><td>Yes, I have one <mark style="color:green;">>>>>>>></mark></td><td><a href="../quickstart-v2/#qs2"><mark style="color:red;">No</mark></a>, I need one</td><td><a href="../../.gitbook/assets/wallet.jpg">wallet.jpg</a></td></tr><tr><td>Social Airdrops, Newscast</td><td><a href="https://forms.gle/oYWmZYH33iSPjZap9">Register your Wallet </a><mark style="color:green;">>>>></mark></td><td>on <a href="../quickstart-v2/cryptocurrency-wallets/qs.foxxchain-network/">YouTube</a> #airdrop</td><td><a href="../../.gitbook/assets/social.jpg">social.jpg</a></td></tr><tr><td>Decentralized Networks</td><td>Start your DeFi Portfolio</td><td><a href="../../#defi-kings">Top DeFi Pick of the Week</a></td><td><a href="../../.gitbook/assets/th-275876766.jpg">th-275876766.jpg</a></td></tr><tr><td>Play to Earn Gaming</td><td></td><td></td><td><a href="../../.gitbook/assets/PLAY TO EARN.jpg">PLAY TO EARN.jpg</a></td></tr><tr><td>Foxxchain </td><td></td><td></td><td><a href="../../.gitbook/assets/cube1.jpg">cube1.jpg</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 Unleash the power of Quickstart! Empowering you with essential tools and invaluable insights, we pave the way for seamless blockchain transactions. Immerse yourself in the world of boundless opportunities as you effortlessly connect to DeFi Protocols!Requirements needed to achieve maximum result
 

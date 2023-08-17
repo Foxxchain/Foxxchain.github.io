@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# GAMERZ GUILDZ
+# 🧙♂ Blockchain Masters Role Play
 
 🏰 Are you tired of playing games set in predefined worlds? Ready to break free from the limitations of traditional gaming? Look no further! Our game, currently in thrilling test mode, is on the verge of revolutionizing the way we play and interact in the gaming world.
 

@@ -35,7 +35,7 @@ layout:
 
 1. [Why?](./#cryptowallet) A crypto wallet is a tool that allows you to interact with a blockchain network.
 2. Where? [<mark style="color:yellow;">Where do you get a wallet from.</mark>](./#cryptowallet)
-3. Which one should i choice?....[<mark style="color:red;">Help</mark>](../../research-and-development/foxxchain.wiki/cryptocurrency-wallets/qs.foxxchain-network/#qs.foxxchain-network)
+3. Which one should i choice?....[<mark style="color:red;">Help</mark>](cryptocurrency-wallets/qs.foxxchain-network/#qs.foxxchain-network)
 4. [<mark style="color:green;">Ok let me try it out...</mark>](https://forms.gle/dvT48bnJpZ1XWQzJ9)
 {% endtab %}
 
@@ -44,7 +44,7 @@ layout:
 
 <div align="left" data-full-width="true">
 
-<figure><img src="https://images.unsplash.com/photo-1605192020788-24d8eae86e59?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxjb21wdXRlciUyMHBsdWd8ZW58MHx8fHwxNjg3OTI3MjQzfDA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt="" width="563"><figcaption><p><a href="../../research-and-development/foxxchain.wiki/cryptocurrency-wallets/qs.foxxchain-network/#qs.foxxchain-network">Foxxchain.io </a></p></figcaption></figure>
+<figure><img src="https://images.unsplash.com/photo-1605192020788-24d8eae86e59?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxjb21wdXRlciUyMHBsdWd8ZW58MHx8fHwxNjg3OTI3MjQzfDA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt="" width="563"><figcaption><p><a href="cryptocurrency-wallets/qs.foxxchain-network/#qs.foxxchain-network">Foxxchain.io </a></p></figcaption></figure>
 
 </div>
 

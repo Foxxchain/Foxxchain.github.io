@@ -3,8 +3,8 @@ description: >-
   Quickstart will give you all the tools and information needed to transact on
   the Blockchain! Connect to DeFi Protocols! and enter the world of Play to Earn
   Games!
-cover: ../../.gitbook/assets/Lucid City Eso (1).png
-coverY: 0
+cover: ../../.gitbook/assets/gamerzguildzBANNER .png
+coverY: 92
 layout:
   cover:
     visible: true
@@ -21,23 +21,9 @@ layout:
     visible: true
 ---
 
-# 🌌 Lucid City
+# 🌌 GamerZ GuildZ
 
 
-
-<div>
-
-<figure><img src="../../.gitbook/assets/LUCID CITY sploder.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Lucid City Eso.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/LUCID CITY qrcode.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 {% hint style="info" %}
 Welcome, Choose your next step...
