@@ -21,6 +21,7 @@
   * [🌌 BBabies](introduction/fcnn-multiverse/bbabies.md)
   * [🌌 Sports](introduction/fcnn-multiverse/sports.md)
   * [🌌 GamerZ GuildZ](introduction/fcnn-multiverse/gamerz-guildz.md)
+  * [🔗 C505 Community Metaverse](introduction/fcnn-multiverse/c505-community-metaverse.md)
 * [💧 Decentralize](introduction/decentralize/README.md)
   * [Daily Compounding Interest](introduction/decentralize/daily-compounding-interest.md)
 * [🐶 Staking](introduction/staking.md)
