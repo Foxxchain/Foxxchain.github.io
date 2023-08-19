@@ -17,9 +17,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/C505 Communnity.png" alt=""><figcaption><p><a href="https://forms.gle/q1zotWiXwfeowDhC6"><mark style="color:green;">Quick Start Form Below</mark></a></p></figcaption></figure>
 
-
-
-{% embed url="https://forms.gle/q1zotWiXwfeowDhC6" %}
+{% embed url="https://forms.gle/6epeAjqbw9JWnq567" %}
 
 {% hint style="danger" %}
 THIS WEBSITE IS UNDERGOING LIVE TESTING AND UPDATES: [<mark style="background-color:green;">Click Here to Register into one of the Focus Groups</mark>](https://forms.gle/rRMumhSc4dXLcUm1A)
