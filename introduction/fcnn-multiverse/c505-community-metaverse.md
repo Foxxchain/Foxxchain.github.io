@@ -15,7 +15,7 @@ layout:
 
 # 🔗 C505 Community Metaverse
 
-<figure><img src="../../.gitbook/assets/C505 Communnity.png" alt=""><figcaption><p><a href="https://dripnetwork.io/dapp/ddd?referral=0x3224dC12d7f0A55C8034a8291FD0A0518C42d820">https://dripnetwork.io/dapp/ddd?referral=0x3224dC12d7f0A55C8034a8291FD0A0518C42d820</a><a href="https://forms.gle/q1zotWiXwfeowDhC6"><mark style="color:green;">Quick Start Form Below</mark></a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C505 Communnity.png" alt=""><figcaption><p><a href="https://forms.gle/q1zotWiXwfeowDhC6"><mark style="color:green;">Quick Start Form Below</mark></a></p></figcaption></figure>
 
 
 
