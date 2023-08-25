@@ -20,15 +20,11 @@ layout:
 
 # ⚔ GamerZ GuildZ
 
-## PLAY TO EARN
-
-We believe that financial success should be intertwined with joy and excitement. With the rise of play-to-earn gaming, we seize the opportunity to merge investment opportunities with immersive gaming experiences. Our portfolio includes carefully selected play-to-earn gaming projects, where players can earn rewards, assets, and cryptocurrencies by participating in captivating virtual worlds. We understand that investing should be rewarding in more ways than one, and we invite you to join us on this thrilling journey.
-
 {% hint style="info" %}
 Check out [<mark style="color:purple;">**Blockchain Babies**</mark>](broken-reference) for kid friendly games
 {% endhint %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Play to Earn</td><td>New User Start</td><td>Register<a href="https://forms.gle/QnDZj7eQpzUDe52EA"> HERE</a></td><td><a href="../.gitbook/assets/FCNN EARN.png">FCNN EARN.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/bcmhunt.png">bcmhunt.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/SHIBARIUM (2).PNG">SHIBARIUM (2).PNG</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/zedrun.png">zedrun.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Play to Earn</td><td>New User Start</td><td>Register<a href="https://forms.gle/QnDZj7eQpzUDe52EA"> HERE</a></td><td><a href="../.gitbook/assets/FCNN EARN.png">FCNN EARN.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/bcmhunt.png">bcmhunt.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/SHIBARIUM (2).PNG">SHIBARIUM (2).PNG</a></td></tr><tr><td>OPENSEA: Foxx Stables </td><td>ZED RUN: Private Race</td><td></td><td><a href="../.gitbook/assets/zedrun.png">zedrun.png</a></td></tr></tbody></table>
 
 {% tabs %}
 {% tab title="First Tab" %}
