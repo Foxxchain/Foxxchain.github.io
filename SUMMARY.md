@@ -16,7 +16,7 @@
   * [🌌 Heal](introduction/fcnn-multiverse/heal.md)
   * [🌌 Lucid City](introduction/fcnn-multiverse/lucid-city.md)
   * [🌌 Lucid Lifestyles](introduction/fcnn-multiverse/lucid-lifestyles.md)
-  * [🌌 ESO-Media](introduction/fcnn-multiverse/eso-media.md)
+  * [🌌 ESO-MEDIA](introduction/fcnn-multiverse/eso-media.md)
   * [🌌 OthaWurld](introduction/fcnn-multiverse/othawurld.md)
   * [🌌 BBabies](introduction/fcnn-multiverse/bbabies.md)
   * [🌌 Sports](introduction/fcnn-multiverse/sports.md)
