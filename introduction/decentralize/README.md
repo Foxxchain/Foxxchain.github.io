@@ -56,6 +56,10 @@ A list of **analytics tools**, **dashboards**, and **platforms** that you can us
 * [🛡️ **Reservoir Charts**](https://dripcommunity.wiki/tools/reservoir-charts/)
 * [📋 **Tools**](https://dripcommunity.wiki/tools/tools/)
 
+```html
+<iframe width="640px" height="360px" src="https://defillama.com/chart/chain/All?&theme=dark" title="DefiLlama" frameborder="0"></iframe>
+```
+
 <details>
 
 <summary>DISCLAIMER</summary>
