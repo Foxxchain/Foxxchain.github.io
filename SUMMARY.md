@@ -12,7 +12,7 @@
   * [🆕 NEW TO CRYPTO](introduction/quickstart-v2/new-to-crypto.md)
   * [🏧 Upgrade Now](introduction/quickstart-v2/upgrade-now.md)
 * [🌌 FCNN MULTIVERSE](introduction/fcnn-multiverse/README.md)
-  * [🌌 IDevelop](introduction/fcnn-multiverse/idevelop.md)
+  * [🌌 IDevelop Genesis:](introduction/fcnn-multiverse/idevelop-genesis.md)
   * [🌌 Heal](introduction/fcnn-multiverse/heal.md)
   * [🌌 Lucid City](introduction/fcnn-multiverse/lucid-city.md)
   * [🌌 Lucid Lifestyles](introduction/fcnn-multiverse/lucid-lifestyles.md)
