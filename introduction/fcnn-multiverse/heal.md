@@ -30,9 +30,17 @@ Embark on a journey to recalibrate your energy, mend physical wounds, nurture me
 
 For athletes seeking to transcend their limits, our sports medicine services are finely tuned to optimize performance and recovery. Our team of experts who have worked with NBA, NFL,MLB,NHL, athletes from all sports understands the intricacies of the body, ensuring that healing is not just a goal, but a way of life.
 
+{% hint style="info" %}
+Click Here for Massage, Sports Therapy Networks
+{% endhint %}
+
 With Six active Hubs, Michigan, New York, Las Vegas, Arizona, Texas, Florida.HEAL's presence is rooted in tranquility. And when our sanctuary is sought beyond these spaces, we respond to requests, carrying our healing touch wherever it's needed. Appointments become journeys of transformation, led by compassionate guides.
 
 For those seeking solace in their final moments, HEAL offers hospice services, ensuring a serene transition. Our home care services bring comfort directly to your doorstep, tailored to your needs. Athletes and stars find refuge in our expertise for their loved ones, as we offer specialized massage and Reiki services to nurture their bodies and spirits.
+
+{% hint style="info" %}
+[Click Here if Home Care Assistance is Needed](https://forms.gle/Kj1aouZsR2Sru75v6)
+{% endhint %}
 
 Whether you seek relief from past traumas or yearn for a space to rejuvenate, HEAL welcomes you. With open arms, it aspires to be a beacon of hope, Just as a caterpillar evolves into a butterfly, here you'll experience a journey of growth, renewal, and vibrant emergence. HEAL isn't just a protocol; it's a haven for humanity's shared pursuit of tranquility and healing.
 
