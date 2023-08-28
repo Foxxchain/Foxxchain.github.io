@@ -24,6 +24,11 @@ layout:
 
 ## A list of **analytics tools**, **dashboards**, and **platforms** that you can use to leverage and maximize wealth in your  journey.
 
+<script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script> <div class="livecoinwatch-widget-5" lcw-base="USD" lcw-color-tx="#999999" lcw-marquee-1="coins" lcw-marquee-2="movers" lcw-marquee-items="10" ></div>
+
+
+
+
 {% embed url="https://dune.com/foxxchain/foxxonthecharts" %}
 
 {% embed url="https://dune.com/dripstats/DRIP-Wallet-Analysis" %}
