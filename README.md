@@ -144,6 +144,19 @@ Cryptos: [**26,074**](https://coinmarketcap.com/)  Exchanges**:** [**640**](http
 
 {% embed url="https://www.bloomberg.com/press-releases/2023-03-01/the-animal-farm-is-releasing-new-utilities-to-support-existing-products" %}
 
+##
+
+{% code overflow="wrap" fullWidth="true" %}
+```html
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+```
+{% endcode %}
+
 ## &#x20;Airdrops&#x20;
 
 ## [$1.00 Raffles](https://foxxchain.github.io/)
