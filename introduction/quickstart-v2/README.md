@@ -23,8 +23,8 @@ layout:
 
 # 🟢 QUICKSTART V2
 
-{% embed url="https://www.canva.com/design/DAFt1sk4V0M/watch" %}
-<mark style="color:blue;">**Quick Start Introduction**</mark>
+{% embed url="https://youtu.be/HN26QWgKPTs" %}
+<mark style="color:red;">QUICK START GUIDE INTRODUCTION TEST VIDEO</mark>
 {% endembed %}
 
 {% hint style="info" %}
@@ -33,7 +33,7 @@ Welcome, Choose your next step...
 
 ## Empowering you with essential tools and invaluable insights <a href="#qs2" id="qs2"></a>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>                  <mark style="color:blue;">Step #1</mark></td><td>I Develop</td><td>Create Your Plans</td><td><a href="../../.gitbook/assets/Idevlop.png">Idevlop.png</a></td></tr><tr><td>               <mark style="color:blue;">Step #2</mark></td><td>Eso-Media</td><td>Craft Your Tools</td><td><a href="../../.gitbook/assets/eso-MEDIA500.png">eso-MEDIA500.png</a></td></tr><tr><td>                <mark style="color:blue;">Step #3</mark></td><td>C505 Community</td><td>Conquer the World of DeFi</td><td><a href="../../.gitbook/assets/C505 Communnity.png">C505 Communnity.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>                  <mark style="color:blue;">Step #1</mark></td><td>                 <em><strong>I Develop</strong></em></td><td>         Create Your Plans</td><td><a href="../../.gitbook/assets/idevelop corp. (Logo) (2).jpg">idevelop corp. (Logo) (2).jpg</a></td></tr><tr><td>               <mark style="color:blue;">Step #2</mark></td><td>             <em><strong>Eso-Media</strong></em></td><td>         Craft Your Tools</td><td><a href="../../.gitbook/assets/eso-MEDIA500.png">eso-MEDIA500.png</a></td></tr><tr><td>                <mark style="color:blue;">Step #3</mark></td><td>      <em><strong>C505 Community</strong></em></td><td> Conquer the World of DeFi</td><td><a href="../../.gitbook/assets/C505 Communnity.png">C505 Communnity.png</a></td></tr></tbody></table>
 
 Unleash the power of Quickstart! Empowering you with essential tools and invaluable insights, we pave the way for seamless blockchain transactions. Immerse yourself in the world of boundless opportunities as you effortlessly connect to DeFi Protocols!Requirements needed to achieve maximum result
 
