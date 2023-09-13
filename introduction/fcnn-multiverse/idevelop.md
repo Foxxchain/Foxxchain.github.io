@@ -1,6 +1,6 @@
 ---
 description: Where Concepts Embrace Reality.
-cover: ../../.gitbook/assets/Invent, Design, Executelarge.png
+cover: ../../.gitbook/assets/Invent, Design, Executelarge (3).png
 coverY: -44
 layout:
   cover:
