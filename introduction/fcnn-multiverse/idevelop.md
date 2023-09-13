@@ -22,7 +22,7 @@ layout:
 
 
 
-## _<mark style="color:blue;">Fill out the form below to Quick Start your Developments.</mark>_
+## _<mark style="color:blue;">Fill out the form below to Quick Start your Developments.</mark>_ <a href="#idevelop-registration" id="idevelop-registration"></a>
 
 {% embed url="https://forms.gle/yKQSi89WaYTgEKsj9" %}
 
