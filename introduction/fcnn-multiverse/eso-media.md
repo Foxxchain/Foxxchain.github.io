@@ -20,7 +20,11 @@ layout:
 
 # 🌌 ESO-MEDIA
 
+## _<mark style="color:blue;">Fill out the form below to create your next work of art.</mark>_ <a href="#esomedia-registration" id="esomedia-registration"></a>
+
 {% embed url="https://forms.gle/LfEBVMa11BfwCkPx9" %}
+
+
 
 {% hint style="info" %}
 Welcome, Choose your next step...

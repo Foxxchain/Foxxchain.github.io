@@ -26,8 +26,6 @@ layout:
 
 {% embed url="https://forms.gle/yKQSi89WaYTgEKsj9" %}
 
-{% embed url="https://www.canva.com/design/DAFs4pNca-0/4YyPM3QcpKy1dt2jm4IDSg/watch?utm_campaign=designshare&utm_content=DAFs4pNca-0&utm_medium=link&utm_source=publishsharelink" %}
-
 {% hint style="info" %}
 Welcome, Choose your next step...
 {% endhint %}
