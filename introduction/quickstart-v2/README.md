@@ -37,6 +37,10 @@ Welcome, Choose your next step...
 
 Unleash the power of Quickstart! Empowering you with essential tools and invaluable insights, we pave the way for seamless blockchain transactions. Immerse yourself in the world of boundless opportunities as you effortlessly connect to DeFi Protocols!Requirements needed to achieve maximum result
 
+{% embed url="https://www.canva.com/design/DAFt1sk4V0M/watch" %}
+QUICK START...LIVE EDITS ..."MANDELA EFFECT"
+{% endembed %}
+
 
 
 
