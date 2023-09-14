@@ -22,6 +22,12 @@ layout:
 
 We believe that financial success should be intertwined with joy and excitement. With the rise of play-to-earn gaming, we seize the opportunity to merge investment opportunities with immersive gaming experiences. Our portfolio includes carefully selected play-to-earn gaming projects, where players can earn rewards, assets, and cryptocurrencies by participating in captivating virtual worlds. We understand that investing should be rewarding in more ways than one, and we invite you to join us on this thrilling journey.
 
+
+
+{% embed url="https://youtu.be/kQEAYhJKTrs" %}
+[<mark style="color:blue;">REGISTER WITH THE GAMERZ GUILDZ</mark>](gamerz-guildz.md)
+{% endembed %}
+
 <details>
 
 <summary>📢  Team Requirement Outline</summary>
