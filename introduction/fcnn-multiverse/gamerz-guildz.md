@@ -23,7 +23,7 @@ layout:
 
 # 🌌 GamerZ GuildZ
 
-
+{% embed url="https://forms.gle/VMh2VaRktX3amon97" %}
 
 {% hint style="info" %}
 Welcome, Choose your next step...
