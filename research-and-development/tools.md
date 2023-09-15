@@ -26,15 +26,7 @@ layout:
 
 {% embed url="https://www.datawallet.com/crypto-staking-calculator" %}
 
-<details>
-
-<summary>Cryptocurrency Wallets</summary>
-
-Browser Wallets
-
-
-
-</details>
+{% embed url="https://www.timeanddate.com/moon/phases/usa/key-west" %}
 
 {% content-ref url="../policies/disclaimer.md" %}
 [disclaimer.md](../policies/disclaimer.md)
