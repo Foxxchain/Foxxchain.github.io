@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🌌 IDevelop Genesis:
+# 🌐 IDevelop Genesis:
 
 {% embed url="https://youtu.be/pu70Yexve6Q" fullWidth="true" %}
 <mark style="color:blue;">ISS 101 WELCOME ABOARD</mark>

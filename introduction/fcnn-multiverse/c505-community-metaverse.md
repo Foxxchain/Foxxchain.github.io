@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 🔗 C505 Community Metaverse
+# 🌐 C505 Community Metaverse
 
 <figure><img src="../../.gitbook/assets/C505 Communnity.png" alt=""><figcaption><p><a href="https://forms.gle/q1zotWiXwfeowDhC6"><mark style="color:green;">Quick Start Form Below</mark></a></p></figcaption></figure>
 

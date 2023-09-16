@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 🌌 GamerZ GuildZ
+# 🌐 GamerZ GuildZ
 
 {% embed url="https://forms.gle/VMh2VaRktX3amon97" %}
 

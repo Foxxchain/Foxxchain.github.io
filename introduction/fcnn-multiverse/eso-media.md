@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🌌 ESO-MEDIA
+# 🌐 ESO-MEDIA
 
 ## _<mark style="color:blue;">Fill out the form below to create your next work of art.</mark>_ <a href="#esomedia-registration" id="esomedia-registration"></a>
 

@@ -1,4 +1,4 @@
-# QuickStart Introduction
+# ℹ QuickStart Introduction
 
 Click here for the video introduction
 

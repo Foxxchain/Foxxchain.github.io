@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🌌 FCNN MULTIVERSE
+# 🦊 FCNN MULTIVERSE
 
 {% hint style="info" %}
 Welcome, Choose your next step...

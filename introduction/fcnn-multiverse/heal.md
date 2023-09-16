@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🌌 Heal
+# 🌐 Heal
 
 Introducing HEAL :&#x20;
 

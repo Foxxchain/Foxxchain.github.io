@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 👼 Blockchain Babies
+# 🌐 Blockchain Babies
 
 
 
