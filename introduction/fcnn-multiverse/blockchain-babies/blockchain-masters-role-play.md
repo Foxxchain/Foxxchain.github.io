@@ -1,6 +1,6 @@
 ---
 description: 'Blockchain Masters: The Order Of Realms & Pixels'
-cover: ../../../../.gitbook/assets/powerstone (1).webp
+cover: ../../../.gitbook/assets/powerstone (1).webp
 coverY: 0
 layout:
   cover:
@@ -34,6 +34,6 @@ layout:
 Invitation Video
 {% endembed %}
 
-<figure><img src="../../../../.gitbook/assets/GGBMSRPFCNNFP - Presentation OLDv (2048 × 1152 px) (Instagram Post (Square)) (2048 × 1152 px) (1).png" alt=""><figcaption><p>Invitation Letter</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/GGBMSRPFCNNFP - Presentation OLDv (2048 × 1152 px) (Instagram Post (Square)) (2048 × 1152 px) (1).png" alt=""><figcaption><p>Invitation Letter</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/FoxxontheBlox 2 (500 × 500 px).png" alt=""><figcaption><p><a href="https://www.roblox.com/users/3493463813/profile"><mark style="color:green;">Roblox Private Servers</mark></a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/FoxxontheBlox 2 (500 × 500 px).png" alt=""><figcaption><p><a href="https://www.roblox.com/users/3493463813/profile"><mark style="color:green;">Roblox Private Servers</mark></a></p></figcaption></figure>
