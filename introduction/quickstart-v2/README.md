@@ -23,8 +23,10 @@ layout:
 
 # 🟢 QUICKSTART V2
 
-{% embed url="https://youtu.be/HN26QWgKPTs" %}
-<mark style="color:red;">QUICK START GUIDE INTRODUCTION TEST VIDEO</mark>
+
+
+{% embed url="https://youtu.be/zUlmEgeAo7Y" %}
+<mark style="color:blue;">Quick Start Guide Introduction Video</mark>
 {% endembed %}
 
 {% hint style="info" %}
@@ -37,6 +39,12 @@ Welcome, Choose your next step...
 
 Unleash the power of Quickstart! Empowering you with essential tools and invaluable insights, we pave the way for seamless blockchain transactions. Immerse yourself in the world of boundless opportunities as you effortlessly connect to DeFi Protocols!Requirements needed to achieve maximum result
 
+{% hint style="danger" %}
+THIS WEBSITE IS A LIVE ORGANISM THAT EVOLVES 24/7......"LIVE EDITS"
+
+Live Help On [<mark style="color:blue;">**Telegram**</mark>](https://t.me/+ACh6lJ2aQWo4OWIx) / [<mark style="color:yellow;">**Twitter**</mark>](https://twitter.com/foxxontheblocks) / [**Instagram**](https://www.instagram.com/foxxchain.io/?igshid=NGExMmI2YTkyZg%3D%3D) / <mark style="color:purple;">**TikTok**</mark> / <mark style="color:orange;">**Email**</mark> or [<mark style="color:blue;">**You**</mark><mark style="color:red;">**Tube**</mark> ](https://www.youtube.com/@Foxxontheblock)Videos
+{% endhint %}
+
 {% embed url="https://www.canva.com/design/DAFt1sk4V0M/watch" %}
 QUICK START...LIVE EDITS ..."MANDELA EFFECT"
 {% endembed %}
@@ -45,10 +53,3 @@ QUICK START...LIVE EDITS ..."MANDELA EFFECT"
 
 
 
-
-
-{% hint style="danger" %}
-THIS WEBSITE IS UNDERGOING LIVE TESTING AND UPDATES
-
-Live Help On [<mark style="color:blue;">**Telegram**</mark>](https://t.me/+ACh6lJ2aQWo4OWIx) / [<mark style="color:yellow;">**Twitter**</mark>](https://twitter.com/foxxontheblocks) / [**Instagram**](https://www.instagram.com/foxxchain.io/?igshid=NGExMmI2YTkyZg%3D%3D) / <mark style="color:purple;">**TikTok**</mark> / <mark style="color:orange;">**Email**</mark> or [<mark style="color:blue;">**You**</mark><mark style="color:red;">**Tube**</mark> ](https://www.youtube.com/@Foxxontheblock)Videos
-{% endhint %}

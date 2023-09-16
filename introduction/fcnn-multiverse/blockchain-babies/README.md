@@ -32,15 +32,23 @@ We believe that financial success should be intertwined with joy and excitement.
 
 
 
-<figure><img src="../../../.gitbook/assets/FOXXONTHEBLOX.png" alt=""><figcaption></figcaption></figure>
-
 ⁂ In Gaming as in Life Magic is the Art of Transforming Reality into Something Better ⁂
 
+<figure><img src="../../../.gitbook/assets/FOXXONTHEBLOX.png" alt=""><figcaption></figcaption></figure>
 
+<div>
 
+<figure><img src="../../../.gitbook/assets/BBABIES (1).png" alt="" width="250"><figcaption></figcaption></figure>
 
+ 
 
-<figure><img src="../../../.gitbook/assets/BBABIES (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/FoxxontheBlox .png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/BBABIES (1).png" alt="" width="250"><figcaption></figcaption></figure>
+
+</div>
 
 
 
