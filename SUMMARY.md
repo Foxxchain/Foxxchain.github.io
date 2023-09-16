@@ -11,6 +11,7 @@
 * [🟢 QUICKSTART V2](introduction/quickstart-v2/README.md)
   * [🆕 NEW TO CRYPTO](introduction/quickstart-v2/new-to-crypto.md)
   * [🏧 Upgrade Now](introduction/quickstart-v2/upgrade-now.md)
+  * [QuickStart Introduction](introduction/quickstart-v2/quickstart-introduction.md)
 * [🌌 FCNN MULTIVERSE](introduction/fcnn-multiverse/README.md)
   * [🌌 IDevelop Genesis:](introduction/fcnn-multiverse/idevelop.md)
   * [🌌 ESO-MEDIA](introduction/fcnn-multiverse/eso-media.md)
