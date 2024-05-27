@@ -16,14 +16,14 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: true
   pagination:
     visible: true
 ---
 
-# 🐶 Staking
+# 🔹 Staking
 
 <details>
 

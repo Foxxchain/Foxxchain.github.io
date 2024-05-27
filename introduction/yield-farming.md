@@ -16,14 +16,14 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: true
   pagination:
     visible: true
 ---
 
-# 🐷 Yield Farming
+# 🔹 Yield Farming
 
 
 
@@ -32,10 +32,6 @@ layout:
 Animal Farm is the first deflationary, fully decentralized ownership yield farm/lending protocol in [**DeFi**](https://academy.binance.com/en/articles/the-complete-beginners-guide-to-decentralized-finance-defi), where participants earn as owners of the network. It has many **unique mechanics**.
 
 <figure><img src="https://animalfarm.wiki/static/introaf.png" alt=""><figcaption></figcaption></figure>
-
-{% embed url="https://www.bloomberg.com/press-releases/2023-03-01/the-animal-farm-is-releasing-new-utilities-to-support-existing-products" %}
-
-
 
 The super wealthy do not build and protect their wealth by selling their assets. They accumulate their wealth and then leverage it while **living off the dividends**.
 

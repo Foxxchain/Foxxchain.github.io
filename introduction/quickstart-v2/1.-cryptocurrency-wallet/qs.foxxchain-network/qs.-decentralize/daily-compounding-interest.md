@@ -8,7 +8,7 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/20230604_115704.jpg" alt="" width="141"><figcaption><p><a href="./#drip-network">Drip Network 1% Daily </a></p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/20230604_115704.jpg" alt="" width="141"><figcaption><p><a href="../../../../decentralize/#drip-network">Drip Network 1% Daily </a></p></figcaption></figure>
 
 </div>
 

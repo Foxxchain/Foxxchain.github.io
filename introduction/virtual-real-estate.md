@@ -2,31 +2,11 @@
 description: Æ1st Interactive Gamerz Play to Earn Launchpad
 cover: ../.gitbook/assets/OIP (2) (1).jpeg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🔹 Virtual Real Estate
 
 We believe that financial success should be intertwined with joy and excitement. With the rise of play-to-earn gaming, we seize the opportunity to merge investment opportunities with immersive gaming experiences. Our portfolio includes carefully selected play-to-earn gaming projects, where players can earn rewards, assets, and cryptocurrencies by participating in captivating virtual worlds. We understand that investing should be rewarding in more ways than one, and we invite you to join us on this thrilling journey.
-
-
-
-{% embed url="https://youtu.be/kQEAYhJKTrs" %}
-[<mark style="color:blue;">REGISTER WITH THE GAMERZ GUILDZ</mark>](gamerz-guildz.md)
-{% endembed %}
 
 <details>
 
@@ -48,7 +28,7 @@ Where we search the blockchain and share play to earn and play to learn gaming p
 
 ## PLAY TO EARN
 
-Use the referral link given to you or you can [<mark style="color:green;">CLICK HERE</mark>](https://forms.gle/KD5bkL8FrgSuRuvWA)  to get started
+Use the referral link given to you or you can <mark style="color:green;">CLICK THE LINK BELOW</mark> to get started
 
 <details>
 

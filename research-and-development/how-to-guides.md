@@ -3,35 +3,15 @@ description: Æ1st Interactive Gamerz Play to Earn Launchpad
 cover: >-
   https://images.unsplash.com/photo-1609855159298-63f7aed8eef6?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxob3clMjB0b3xlbnwwfHx8fDE2ODc4NDM3MTN8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# ⁉ How To Guides
+# ⁉️ How To Guides
 
 
 
 #### How-to Guides
 
 Since several steps are involved, these official guides will walk you through using our products as efficiently and thoroughly as possible.
-
-
-
-
-
-{% embed url="https://forms.gle/BHXU35HfnSkCRqUH6" %}
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
@@ -41,6 +21,6 @@ We believe that financial success should be intertwined with joy and excitement.
 
 {% embed url="https://trezor.io/" %}
 
-{% content-ref url="../policies/disclaimer.md" %}
-[disclaimer.md](../policies/disclaimer.md)
+{% content-ref url="https://app.gitbook.com/s/ArhQv79QU66iBHghurnn/policies/disclaimer" %}
+[Disclaimer](https://app.gitbook.com/s/ArhQv79QU66iBHghurnn/policies/disclaimer)
 {% endcontent-ref %}
