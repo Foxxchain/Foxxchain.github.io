@@ -1,6 +1,6 @@
 ---
 description: Æ1st Interactive Gamerz Play to Earn Launchpad
-cover: ../.gitbook/assets/GamerZ GUILDZ (2).png
+cover: ../.gitbook/assets/GamerZ GUILDZ (1).png
 coverY: -55
 layout:
   cover:
@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# ⚔ GamerZ GuildZ
+# ⚔️ GamerZ GuildZ
 
 {% hint style="info" %}
 Check out [<mark style="color:purple;">**Blockchain Babies**</mark>](broken-reference) for kid friendly games
@@ -46,7 +46,7 @@ Check out [<mark style="color:purple;">**Blockchain Babies**</mark>](broken-refe
 
 </div>
 
-<figure><img src="../.gitbook/assets/piggyplinko-gamethumbnail.2ce073fe (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/piggyplinko-gamethumbnail.2ce073fe (2).jpg" alt=""><figcaption></figcaption></figure>
 
 <details>
 

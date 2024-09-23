@@ -1,27 +1,55 @@
 ---
 description: >-
-  Alright, you're all set! Simply follow the provided steps and you'll become a
-  member of the Blockchain and DeFi Networks with just a few clicks!
+  Quickstart will give you all the tools and information needed to transact on
+  the Blockchain! Connect to DeFi Protocols! and enter all the unlocked worlds
+  in the Multiverse.
 cover: ../../.gitbook/assets/iStock-1154341603-3249594100.jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🟢 QUICKSTART V2
+
+
+
+{% embed url="https://youtu.be/zUlmEgeAo7Y" %}
+<mark style="color:blue;">Quick Start Guide Introduction Video</mark>
+{% endembed %}
 
 {% hint style="info" %}
 Welcome, Choose your next step...
 {% endhint %}
 
-## Requirements needed to achieve maximum result
+## Empowering you with essential tools and invaluable insights <a href="#qs2" id="qs2"></a>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Cryptocurrency Wallet</td><td><a href="1.-cryptocurrency-wallet/qs.foxxchain-network/#qs.foxxchain-network"><mark style="color:green;">Yes</mark></a>, I have one</td><td><mark style="color:red;">No</mark>, I need one</td><td><a href="../../.gitbook/assets/wallet.jpg">wallet.jpg</a></td></tr><tr><td>Social Media Networks</td><td>Enter Airdrops &#x26; Raffles</td><td>Learn to Earn</td><td><a href="../../.gitbook/assets/social (1).jpg">social (1).jpg</a></td></tr><tr><td>Decentralized Networks</td><td>Start your DeFi Portfolio</td><td>Play to Earn</td><td><a href="../../.gitbook/assets/th-275876766.jpg">th-275876766.jpg</a></td></tr><tr><td>Foxxchain </td><td></td><td></td><td><a href="../../.gitbook/assets/cube1.jpg">cube1.jpg</a></td></tr><tr><td>Play to Earn Gaming</td><td></td><td></td><td><a href="../../.gitbook/assets/PLAY TO EARN.jpg">PLAY TO EARN.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>                  <mark style="color:blue;">Step #1</mark></td><td>                 <em><strong>I Develop</strong></em></td><td>         Create Your Plans</td><td><a href="../../.gitbook/assets/idevelop corp. (Logo) (2).jpg">idevelop corp. (Logo) (2).jpg</a></td><td><a href="../multiverse/idevelop-genesis.md">idevelop-genesis.md</a></td></tr><tr><td>               <mark style="color:blue;">Step #2</mark></td><td>             <em><strong>Eso-Media</strong></em></td><td>         Craft Your Tools</td><td><a href="../../.gitbook/assets/eso-MEDIA500.png">eso-MEDIA500.png</a></td><td><a href="../multiverse/eso-media.md">eso-media.md</a></td></tr><tr><td>                <mark style="color:blue;">Step #3</mark></td><td>      <em><strong>C505 Community</strong></em></td><td> Conquer the World of DeFi</td><td><a href="../../.gitbook/assets/C505 Communnity.png">C505 Communnity.png</a></td><td><a href="../multiverse/c505-community-metaverse.md">c505-community-metaverse.md</a></td></tr></tbody></table>
 
-{% tabs %}
-{% tab title="CryptoWallet" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="1.-cryptocurrency-wallet/qs.foxxchain-network/">Yes</a>, I have one</td><td><a href="1.-cryptocurrency-wallet/#cryptowallet"><mark style="color:red;">No</mark></a>, I need one</td><td>I want more Info...</td><td><a href="../../.gitbook/assets/wallet (1).jpg">wallet (1).jpg</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
-{% endtab %}
+Unleash the power of Quickstart! Empowering you with essential tools and invaluable insights, we pave the way for seamless blockchain transactions. Immerse yourself in the world of boundless opportunities as you effortlessly connect to DeFi Protocols!Requirements needed to achieve maximum result
 
-{% tab title="Second Tab" %}
+{% hint style="danger" %}
+THIS WEBSITE IS A LIVE ORGANISM THAT EVOLVES 24/7......"LIVE EDITS"
 
-{% endtab %}
-{% endtabs %}
+Live Help On [<mark style="color:blue;">**Telegram**</mark>](https://t.me/+ACh6lJ2aQWo4OWIx) / [<mark style="color:yellow;">**Twitter**</mark>](https://twitter.com/foxxontheblocks) / [**Instagram**](https://www.instagram.com/foxxchain.io/?igshid=NGExMmI2YTkyZg%3D%3D) / <mark style="color:purple;">**TikTok**</mark> / <mark style="color:orange;">**Email**</mark> or [<mark style="color:blue;">**You**</mark><mark style="color:red;">**Tube**</mark> ](https://www.youtube.com/@Foxxontheblock)Videos
+{% endhint %}
+
+{% embed url="https://www.canva.com/design/DAFt1sk4V0M/watch" %}
+QUICK START...LIVE EDITS ..."MANDELA EFFECT"
+{% endembed %}
+
+
+
+
+

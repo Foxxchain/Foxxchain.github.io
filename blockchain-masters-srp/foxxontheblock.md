@@ -36,7 +36,7 @@ Loki Loki, Prince of Asgard, Odinson, rightful heir of Jotunheim, and God of Mis
 
 <div align="right">
 
-<figure><img src="../.gitbook/assets/Preview_foxontheblock(1).jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Preview_foxontheblock(1) (1).jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
 

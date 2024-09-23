@@ -3,8 +3,7 @@ description: >-
   Outlined below are the requirements needed to maximize your information and
   therefore your potential profits and definitely qualify for more team
   airdrops, bonus, giveaways...etc.
-cover: >-
-  ../../.gitbook/assets/defi-decentralized-finance-blockchain-financial-system-business-technology-concept-virtual-screen-robotic-hand-touching-digital-248990743-3663998564.jpg
+cover: ../../.gitbook/assets/FCNN blue BANNER (36 × 18 in).png
 coverY: 0
 layout:
   cover:
@@ -15,14 +14,14 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: true
   pagination:
     visible: true
 ---
 
-# 🔹 Decentralize
+# 💧 Decentralize
 
 <div align="left">
 
@@ -56,6 +55,10 @@ A list of **analytics tools**, **dashboards**, and **platforms** that you can us
 * [📊 **Advanced Drip Charts**](https://dripcommunity.wiki/tools/advanced-charts/)
 * [🛡️ **Reservoir Charts**](https://dripcommunity.wiki/tools/reservoir-charts/)
 * [📋 **Tools**](https://dripcommunity.wiki/tools/tools/)
+
+```html
+<iframe width="640px" height="360px" src="https://defillama.com/chart/chain/All?&theme=dark" title="DefiLlama" frameborder="0"></iframe>
+```
 
 <details>
 

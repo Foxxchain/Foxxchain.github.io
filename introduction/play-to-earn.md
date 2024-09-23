@@ -51,7 +51,7 @@ Check out [<mark style="color:purple;">**Blockchain Babies**</mark>](broken-refe
 
 </div>
 
-<figure><img src="../.gitbook/assets/piggyplinko-gamethumbnail.2ce073fe (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/piggyplinko-gamethumbnail.2ce073fe (2).jpg" alt=""><figcaption></figcaption></figure>
 
 <details>
 

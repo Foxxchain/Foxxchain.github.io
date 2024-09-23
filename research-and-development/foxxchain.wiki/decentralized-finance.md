@@ -1,4 +1,18 @@
-# 📂 Decentralized Finance
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🤑 Decentralized Finance
 
 DeFi, or decentralized finance, remains one of the fastest growing industries. From 2019 to 2021, the TVL, or total value locked, in DeFi protocols grew[ 80x](https://wifpr.wharton.upenn.edu/wp-content/uploads/2021/05/DeFi-Beyond-the-Hype.pdf). Today, DeFi continues to grow, having surpassed $100 billion in TVL in 2022. DeFi provides the opportunity for anyone to interact with a transparent, open, and secure financial system. DeFi is different from the traditional finance system which has been around for thousands of years. Let’s talk about the differences between the two.
 

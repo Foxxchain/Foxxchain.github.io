@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🔮 Crypto Timeline
 
 **The famous story of the mysterious identity of Bitcoin’s creator Satoshi Nakamoto is nothing new to us. But just like how history class was important during our schooling days, it is also important to understand the history of cryptocurrency and how it came to be as a/an (aspiring) crypto investor.**

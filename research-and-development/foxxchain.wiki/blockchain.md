@@ -3,18 +3,27 @@ description: >-
   Blockchain technology is the concept or protocol behind the running of the
   blockchain. Blockchain technology makes cryptocurrencies like Bitcoin work
   just like the internet makes email possible.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 📂 Blockchain
+# ⚛️ Blockchain
 
-
-
-## <mark style="color:blue;">Blockchain 101: Blockchain For Beginners</mark>
+## <mark style="color:blue;">Blockchain 101: Blockchain For Beginners</mark> <a href="#blockchain101" id="blockchain101"></a>
 
 #### For many, blockchain technology is still a mysterious or even intimidating topic. Some even remain skeptical that we’ll use this technology in the future. This skepticism that exists today is understandable because we’re still very early in the development and widespread adoption of blockchain technology.
 
 {% hint style="info" %}
-[Quick Start Guide](broken-reference)[☣Disclaimer](https://app.gitbook.com/o/HV0EygnULxrv5yDITPZB/s/ArhQv79QU66iBHghurnn/\~/changes/104/policies/disclaimer)
+[Upgrade](cryptocurrency-wallets/qs.foxxchain-network/#qs.foxxchain-network) for Live Updates and Tools
 {% endhint %}
 
 Blockchain technology is the concept or protocol behind the running of the blockchain. Blockchain technology makes [cryptocurrencies](http://blockgeeks.com/guides/what-is-cryptocurrency/) (digital currencies secured by cryptography) like Bitcoin work just like the internet makes email possible.
@@ -349,6 +358,6 @@ We hope this guide gave you the confidence to have conversations with friends an
 
 Most importantly, we hope it lit a small fire in you to learn even more about a technology that’s fundamentally changing the way we trust and exchange value.
 
-{% content-ref url="https://app.gitbook.com/s/ArhQv79QU66iBHghurnn/policies/disclaimer" %}
-[Disclaimer](https://app.gitbook.com/s/ArhQv79QU66iBHghurnn/policies/disclaimer)
+{% content-ref url="../../policies/disclaimer.md" %}
+[disclaimer.md](../../policies/disclaimer.md)
 {% endcontent-ref %}
